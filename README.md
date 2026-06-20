@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Agentic AutoML Pipeline
 
 A minimal working agentic AutoML system for tabular CSV/Excel datasets.
@@ -74,3 +75,6 @@ Output:
 ```text
 docs/architecture.png
 ```
+=======
+# AutoCraft-AI
+>>>>>>> 8cf1599b812f1ab50d8c6c024f43f413e41ad8f5
