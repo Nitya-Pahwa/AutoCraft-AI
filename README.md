@@ -330,7 +330,7 @@ Examples of supported numeric-like strings:
 ### Clone Repository
 
 ```bash
-git clone https://github.com/<username>/AutoCraft-AI.git
+[git clone https://github.com/<username>/AutoCraft-AI.git](https://github.com/Nitya-Pahwa/AutoCraft-AI.git)
 cd AutoCraft-AI
 ```
 
@@ -460,7 +460,6 @@ This makes AutoCraft AI not just an AutoML system, but an intelligent machine le
 
 <img width="1920" height="901" alt="Screenshot (2471)" src="https://github.com/user-attachments/assets/a33e50e2-9a81-4511-8f8d-9d9287958017" />
 
-<img width="1920" height="1080" alt="Screenshot (2275)" src="https://github.com/user-attachments/assets/211eff2c-c2f3-47e5-8175-0dc47f1b2f77" />
 
 <img width="1920" height="902" alt="Screenshot (2279)" src="https://github.com/user-attachments/assets/ca4112c8-dc82-485b-bee7-7578f486a2eb" />
 
